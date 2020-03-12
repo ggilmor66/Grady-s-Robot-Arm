@@ -34,3 +34,4 @@ Wiring and coding could be issue and might need to come in BKT, after school, be
 
 
 ### Pre-Project Design Plans:
+ ![GitHub Octocat](Media/IMG_0559 (1).jpg)
